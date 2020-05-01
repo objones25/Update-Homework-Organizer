@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B493145E245B92CE00D1AC89 /* AssignmentData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B493145D245B92CE00D1AC89 /* AssignmentData.swift */; };
 		B4DCC288245B665B006A87BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DCC287245B665B006A87BF /* AppDelegate.swift */; };
 		B4DCC28A245B665B006A87BF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DCC289245B665B006A87BF /* SceneDelegate.swift */; };
 		B4DCC28D245B665B006A87BF /* Update_Homework_Organizer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B4DCC28B245B665B006A87BF /* Update_Homework_Organizer.xcdatamodeld */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B493145D245B92CE00D1AC89 /* AssignmentData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentData.swift; sourceTree = "<group>"; };
 		B4DCC284245B665B006A87BF /* Update Homework Organizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Update Homework Organizer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4DCC287245B665B006A87BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B4DCC289245B665B006A87BF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				B4DCC287245B665B006A87BF /* AppDelegate.swift */,
 				B4DCC289245B665B006A87BF /* SceneDelegate.swift */,
 				B4DCC28E245B665B006A87BF /* ContentView.swift */,
+				B493145D245B92CE00D1AC89 /* AssignmentData.swift */,
 				B4DCC290245B665D006A87BF /* Assets.xcassets */,
 				B4DCC295245B665D006A87BF /* LaunchScreen.storyboard */,
 				B4DCC298245B665D006A87BF /* Info.plist */,
@@ -152,6 +155,7 @@
 				B4DCC28D245B665B006A87BF /* Update_Homework_Organizer.xcdatamodeld in Sources */,
 				B4DCC288245B665B006A87BF /* AppDelegate.swift in Sources */,
 				B4DCC28F245B665B006A87BF /* ContentView.swift in Sources */,
+				B493145E245B92CE00D1AC89 /* AssignmentData.swift in Sources */,
 				B4DCC28A245B665B006A87BF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
